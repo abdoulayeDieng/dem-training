@@ -25,3 +25,4 @@ The following students proudly finished the training:
 
  * [Student1](http://url)
  * [Student](mailto:student@example.com)
+ * [Abdoulaye Dieng](mailto:adieng@gmail.com) 
